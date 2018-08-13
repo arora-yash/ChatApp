@@ -1,0 +1,18 @@
+{
+  "name": "Chat App",
+  "description": "my first node.js and socket.io app",
+  "website": "https://github.com/arora-yash/chat-app",
+  "repository": "https://github.com/arora-yash/chat-app",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ]
+}
